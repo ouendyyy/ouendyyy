@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ouendyyy, I am studenting for my master's degree in Sapienza University in Italy
+- 👋 Hi, I’m @ouendyyy, I am studying for my master's degree in Sapienza University in Italy
 - 👀 I’m interested in deeplearning and knowldege graph
 - 🌱 I’m currently learning knowldege graph
 - 📫 You can reach me via my email address thywdy@gmail.com 
